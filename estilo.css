@@ -1,0 +1,19 @@
+body {
+    font-family: 'Work Sans', sans-serif;
+}
+
+
+.container {
+    text-align: center;
+}
+
+button {
+    background-color: rgb(221, 130, 148);
+    color: bisque;
+    font-size: 32px;
+    padding: 8px 20px;
+    cursor: pointer;
+    border: 0;
+    border-radius: 10px;
+    font-family: 'Work Sans', sans-serif;
+}
